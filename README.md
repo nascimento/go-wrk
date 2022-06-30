@@ -1,3 +1,6 @@
+> THIS IS A FORK FOR TESTS, PLEASE DO NOT USE !!!!!!
+
+
 go-wrk - an HTTP benchmarking tool
 ==================================
 
